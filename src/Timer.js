@@ -45,5 +45,6 @@ class Timer extends Component {
     this.props.removeTimer(this.props.id);
   };
 }
+  
 
 export default Timer;
